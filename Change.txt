@@ -1,6 +1,6 @@
 {
-	"v1": 13,
-	"v2": 25,
+	"v1": 14,
+	"v2": 00,
 	"v3": "\nAdded : Anti Ban & and codes improved",
 	"website": "https://www.awtmods.tech/2022/12/awt-whatsapp.html",
 	"cancel": false
