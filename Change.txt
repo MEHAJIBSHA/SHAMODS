@@ -1,1 +1,7 @@
-{'ver1':'2', 'ver2':'80', 'ver3':'\n• [Base 2.25.15.80]\n• [Important Update]\n• [Please Download And Install Latest Version To Keep Your WhatsApp Working Well]\n' , 'dli':'https://youtube.com/@mehajibsha'}
+{
+	"v1": 13,
+	"v2": 25,
+	"v3": "\nAdded : Anti Ban & and codes improved",
+	"website": "https://www.awtmods.tech/2022/12/awt-whatsapp.html",
+	"cancel": false
+}
